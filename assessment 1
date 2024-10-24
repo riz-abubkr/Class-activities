@@ -1,0 +1,41 @@
+#basic string
+print("hello world")
+#basic math
+print(5+3)
+#multiple arguments
+print("python,is,fun")
+#multiple character
+print("she said,\"hello!\"")
+#new line character
+print("first line\nsecond line")
+#tab character
+print("item 1\titem2\titem3")
+#multiple data type together
+print("the result is",42)
+#print a single number
+print(12345)
+#print a deciaml
+print(3.14159)
+#print a special character
+print("dollar sign:$")
+#using the sep parameter
+print("hello,",end="")
+print("world!")
+#print a repeated string
+print("python!"*3)
+#print a unicode character
+print("\u2764")
+#empty line
+print()
+#concatenating strings inside print
+print("hello"+ "world!")
+#boolean values
+print(True)
+print(False)
+#exponential notation
+print(1.2e3)
+#multiline text using triple quote
+print("""this is 
+a multiline print statement""")
+#escaped backlash
+print("this a backlash:\\")
